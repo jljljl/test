@@ -95,7 +95,8 @@ int main(void)
   while (1)
   {
   /* USER CODE END WHILE */
-
+		
+		HAL_Delay(10);
   /* USER CODE BEGIN 3 */
 
   }
